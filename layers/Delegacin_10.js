@@ -1,0 +1,1 @@
+var json_Delegacin_10 = {"type":"FeatureCollection","name":"Delegacin_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"localidad":"RÍO GRANDE"},"geometry":{"type":"Point","coordinates":[-67.695855810342096,-53.791226974757997]}}]}
